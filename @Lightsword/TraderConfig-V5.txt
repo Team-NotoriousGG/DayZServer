@@ -1,0 +1,27 @@
+Mod: Lightsword
+Version: 5.0
+
+*Prices may be subject to change/ and are editable*
+
+<Trader> Weapon Trader
+	<Category> Advanced Weaponary
+
+		Diatium_Power_Cell,										*,		25000,	1200
+		Luke_Skywalker_Lightsaber_Retracted,					*,		15000,	7500
+		Rey_Skywalker_Lightsaber_Retracted,						*,		15000,	7500
+		Obi_Wan_Lightsaber_Retracted,							*,		15000,	7500
+		Mace_Windu_Lightsaber_Retracted,						*,		15000,	7500
+		Ahsoka_Tano_Lightsaber_Retracted,						*,		15000,	7500
+		Sith_Lightsaber_Retracted,								*,		15000,	7500
+		Count_Dooku_Lightsaber_Retracted,						*,		15000,	7500
+		Darksaber_Retracted,									*,		15000,	7500
+
+<Trader> Clothing
+	<Category> Headgear
+
+		StormtrooperHelmet,				*,		200,	100
+		MandalorianHelmet,				*,		200,	100
+		Cloak_tan,						*,		450,	220
+		Cloak_brown,					*,		450,	220
+		Cloak_black,					*,		450,	220
+		Cloak_white,					*,		450,	220
