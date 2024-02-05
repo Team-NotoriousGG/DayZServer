@@ -1,0 +1,10 @@
+name = "AmmunitionExpansion"; 								// name
+picture = "AmmunitionExpansion/AmmunitionExpansionLogo.paa";			// picture in expanded description
+logoSmall = "AmmunitionExpansion/AmmunitionExpansionLogo.paa";	// icon next to mod name when description is not expanded
+logo = "AmmunitionExpansion/AmmunitionExpansionLogo.paa";				// logo below game menu
+logoOver = "AmmunitionExpansionAmmunitionExpansionLogo.paa";		// on mouse hover over logo
+tooltip = "AmmunitionExpansion";							// tool tip on mouse hover
+overview = "AmmunitionExpansion is an ever expanding ammunition mod."; 						// overview
+action = "";					// link
+author = "CashewSan";								// author
+version = "1.15";								// version
